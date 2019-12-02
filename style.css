@@ -1,0 +1,25 @@
+/* CSS Document */
+
+.carousel-item img {
+	object-fit: cover;
+	height: 600px;
+}
+
+.col-sm img {
+	width: 100%;
+	object-fit: cover;
+	height: 300px;
+}
+
+.col-sm {
+	padding: 0;
+}
+
+.container {
+    max-width: none;
+}
+
+footer p {
+	padding-top: 1rem;
+	text-align: center;
+}
